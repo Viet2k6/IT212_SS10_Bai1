@@ -1,5 +1,3 @@
-# Bài Tập Môn Ứng Dụng AI Trong Học Tập
-
 ## Bài 1: Phân Tích & Lựa Chọn Chiến Lược Tài Liệu Hóa
 
 **1. Đáp án phương án được chọn: Phương án B**
